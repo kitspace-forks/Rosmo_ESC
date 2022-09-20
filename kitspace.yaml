@@ -1,0 +1,4 @@
+eda:
+    type: kicad
+    pcb: Rosmo_ESC.kicad_pcb
+bom: Rosmo_ESC.kicad_pcb
